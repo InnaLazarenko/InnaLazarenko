@@ -5,7 +5,7 @@
         const Inna = {
           job: "Front end developer",
           skilledIn: [ React 16.x, Typescript, Javascript, HTML5, CSS3, Agile | Scrum ],
-          tools: [ Figma, Git, Storybook, Styled-Components ],
+          tools: [ Figma, Sketch, Git, Storybook, Styled-Components ],
           product: [ Pixel-perfect, flexible, semantic markup, HTML, Css3 | Sass | Less, Material UI, Bootstrap ],
           communication: [ Slack, Skype ],
           certification: "React - The Complete Guide (incl Hooks, React Router, Redux) Udemy",
