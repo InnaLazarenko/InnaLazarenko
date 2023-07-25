@@ -14,10 +14,10 @@
         }
 
 <details>
-        <summary>Examples of latest works</summary>
+        <summary>**Examples of latest works**</summary>
                 
-        - https://www.blocksbuilders.io
-        - https://varbintech.com/
+        * [blocksbuilders](https://www.blocksbuilders.io)
+        * [varbintech](https://varbintech.com)
 </details>
 
 <!--
