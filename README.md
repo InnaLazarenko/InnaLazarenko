@@ -17,6 +17,9 @@
 <summary>Examples of latest works</summary>
         
  - [Blocksbuilders](https://www.blocksbuilders.io)
+   ![Handles profile](https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/65d946aa-869e-47c5-a76e-da31f176315c)
+![Handles profile (1)](https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/e1fb5122-e05d-481c-b917-07f862fb05d1)
+
  - [Varbintech](https://varbintech.com)
 </details>
 
