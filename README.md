@@ -1,6 +1,6 @@
 ## Hi there, I'm Inna 👋
 
-### A little more about me
+ A little more about me
 
         const Inna = {
           job: "Front end developer",
