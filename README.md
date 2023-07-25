@@ -17,12 +17,12 @@
 <summary>Examples of latest works</summary>
         
  1. [Blocksbuilders](https://www.blocksbuilders.io)
-   ![Handles profile](https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/65d946aa-869e-47c5-a76e-da31f176315c)
-![Handles profile (1)](https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/e1fb5122-e05d-481c-b917-07f862fb05d1)
+        ![Handles profile](https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/65d946aa-869e-47c5-a76e-da31f176315c)
+        ![Handles profile (1)](https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/e1fb5122-e05d-481c-b917-07f862fb05d1)
 
  2. [Varbintech](https://varbintech.com)
-   
-   ![Cookie](https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/f02dd9bd-1823-4200-9428-ddfb054e6891)
+
+       ![Cookie](https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/f02dd9bd-1823-4200-9428-ddfb054e6891)
 
 </details>
 
