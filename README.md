@@ -15,7 +15,7 @@
 
 ### Examples of latest works
 
- [Blocksbuilders](https://www.blocksbuilders.io)
+ - [Blocksbuilders](https://www.blocksbuilders.io)
 
 <details>
 <summary>More</summary>
@@ -25,7 +25,7 @@
      alt="Handles profile1" />
 </details>
 
- [Varbintech](https://varbintech.com)
+ - [Varbintech](https://varbintech.com)
  
 <details>
 <summary>More</summary>
