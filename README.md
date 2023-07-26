@@ -26,7 +26,9 @@
      alt="Handles profile1" />
 </details>
 
- - [Varbintech](https://varbintech.com)
+ - [Varbintech](https://varbintech.com) - a gorgeous business card application for developers team <br>
+ It has flexible, responsive web and mobile view, light and dark themes.
+ **Tools & Technologies that were used**: React, NextJs, Typescript, Git, Figma, Material UI, Styled-Components, Storybook
  
 <details>
 <summary>More</summary>
