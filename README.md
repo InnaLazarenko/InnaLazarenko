@@ -15,7 +15,8 @@
 
 ### Examples of latest works
 
- - [Blocksbuilders](https://www.blocksbuilders.io)
+ - [Blocksbuilders](https://www.blocksbuilders.io) - the best application for tracking handles for different social accounts. <br>
+**Tools & Technologies that were used**: React, Typescript, Git, Figma, Material UI, Styled-Components, Storybook
 
 <details>
 <summary>More</summary>
