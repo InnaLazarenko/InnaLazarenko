@@ -16,7 +16,7 @@
 ### Examples of latest works
 
  - [Blocksbuilders](https://www.blocksbuilders.io) - the best application for tracking handles for different social accounts. <br>
-**Tools & Technologies that were used**: React, Typescript, Git, Figma, Material UI, Styled-Components, Storybook
+**Tools & Technologies that were used**: React, Typescript, Git, Figma, Material UI, Styled-Components, Storybook.
 
 <details>
 <summary>More</summary>
@@ -27,7 +27,7 @@
 </details>
 
  - [Varbintech](https://varbintech.com) - a gorgeous business card application for developers team, where implemented flexible, responsive web and mobile view, light and dark themes. <br>
- **Tools & Technologies that were used**: React, NextJs, Typescript, Git, Figma, Material UI, Styled-Components, Storybook
+ **Tools & Technologies that were used**: React, NextJs, Typescript, Git, Figma, Material UI, Styled-Components, Storybook.
  
 <details>
 <summary>More</summary>
