@@ -2,7 +2,7 @@
 
 ### A little more about me
 
-        const Inna = {
+       const Inna = {
           job: "Front end developer",
           skilledIn: [ React 16.x, Typescript, Javascript, HTML5, CSS3, Agile | Scrum ],
           tools: [ Git, Figma, Sketch, Storybook, Styled-Components ],
@@ -12,6 +12,13 @@
           experience: "Teacher/trainer of the Html course at Spalah IT-School",
           love: [ Spending time with family, reading, swimming, skiing, walking, piano playing, baking ]
         }
+### Licenses & certifications 
+[React - The Complete Guide (incl Hooks, React Router, Redux) Udemy](https://www.udemy.com/certificate/UC-5efad60e-6b15-4ee4-a2ff-592b4976851d/)
+<details>
+<summary>More</summary>
+<img src="https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/e01dea5a-b3eb-4ed7-8705-f2f462fe801e"
+     alt="certification" /> 
+</details>
 
 ### Examples of latest works
 
