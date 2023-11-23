@@ -4,7 +4,7 @@
 
        const Inna = {
           job: "Front end developer",
-          skilledIn: [ React 16.x, Typescript, Javascript, HTML5, CSS3, Agile | Scrum ],
+          skilledIn: [ React 16.x, Typescript, Javascript, Tailwind CSS, HTML5, CSS3, Agile | Scrum ],
           tools: [ Git, Figma, Sketch, Storybook, Styled-Components ],
           product: [ Pixel-perfect, flexible, semantic markup, HTML, Css3 | Sass | Less, Material UI, Bootstrap ],
           communication: [ Slack, Skype ],
