@@ -14,6 +14,9 @@
         }
 ### Licenses & certifications 
 [React - The Complete Guide (incl Hooks, React Router, Redux) Udemy](https://www.udemy.com/certificate/UC-5efad60e-6b15-4ee4-a2ff-592b4976851d/)
+[AWS Certified Cloud Practitioner CLF-C02 2025. Udemy](https://www.udemy.com/certificate/UC-1f607022-3eb8-447e-bb41-0d628546297e/)
+[IT Specialist - Python. Issued by Certiport](https://www.credly.com/badges/14d55943-d712-4d2d-96a6-a618664d49cd/public_url)
+
 <details>
 <summary>More</summary>
 <img src="https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/e01dea5a-b3eb-4ed7-8705-f2f462fe801e"
