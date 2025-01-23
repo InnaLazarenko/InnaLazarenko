@@ -18,6 +18,9 @@
 <summary>More</summary>
 <img src="https://github.com/InnaLazarenko/InnaLazarenko/assets/113412307/e01dea5a-b3eb-4ed7-8705-f2f462fe801e"
      alt="certification" /> 
+<img src="https://github.com/user-attachments/assets/e27658a1-6358-486b-9e8a-6e8ecfa50704"
+     alt="certification" /> 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="14d55943-d712-4d2d-96a6-a618664d49cd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </details>
 
 ### Examples of latest works
